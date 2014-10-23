@@ -1,4 +1,5 @@
 https://github.com/senegalouvert-datasets/Education
+https://github.com/senegalouvert-datasets/senegal-villages
 https://github.com/senegalouvert-datasets/Population-Senegal
 https://github.com/senegalouvert-datasets/Repartition-Population-1970-2005
 https://github.com/senegalouvert-datasets/Observatoires-Internet
